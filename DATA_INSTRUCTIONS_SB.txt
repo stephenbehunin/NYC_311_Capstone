@@ -1,0 +1,16 @@
+Stephen Behunin
+Capstone Submission DATA_INSTRUCTIONS File
+BrainStation | 9.27.2021
+
+The purpose of this file is to give instructions for the download and setup of the 311 Capstone Data Source. 
+
+1. Download the data through this Google Drive link: 
+   https://drive.google.com/file/d/1dPBtAwStC8UbjGoxcgL-JMxKq2TilNzZ/view?usp=sharing
+2. The download should be automatic and be approximately 14.99 GB, 
+   the title of the file is "311_Data.csv" .
+3. Put the file into a folder with all of the notebooks.
+4. Create a folder called "311 Data". (This folder has been provided for convenience)
+5. Put the file into the "311 Data" folder.
+6. Run the "311_Cleaning_Final.ipynb" notebook, this notebook will generate all necessary files for the 
+rest of the notebooks.
+
